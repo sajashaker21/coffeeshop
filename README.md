@@ -23,4 +23,5 @@ https://sajashaker21.github.io/coffeeshop/
 
 
 
-Add screenshots of the website here.
+## screenshots
+![mellow coffee website](coffeshop.png)
